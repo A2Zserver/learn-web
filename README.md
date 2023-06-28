@@ -1,5 +1,5 @@
 # learn-web
-hello, tnx programmers 2 use my note.
+hello, tnx programmers 2 use my codes and notes
 
 for learn better, run all of codes
 
